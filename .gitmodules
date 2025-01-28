@@ -1,0 +1,3 @@
+[submodule "clang-tools-extra/torch-api-sig-extractor/json"]
+	path = clang-tools-extra/torch-api-sig-extractor/json
+	url = git@github.com:nlohmann/json.git
